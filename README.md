@@ -1,6 +1,6 @@
 # Full-Stack Covid19 Customer Record - Server Side
 
-[x] Create a Express App <br />
+[x] Create an Express App <br />
 [x] Mongoose  <br />
 [x] CORS <br />
 [x] Helmet <br />
