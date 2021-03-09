@@ -24,7 +24,7 @@ app.use(morgan('common'));
 app.use(helmet());
 app.use(
   cors({
-    origin: 'https://wb-covid19-resgistration.netlify.app/',
+    origin: 'https://wb-covid19-resgistration.netlify.app',
   })
 );
 app.use(express.json());
